@@ -1,0 +1,4 @@
+total 0
+drwxrwxrwx 1 esther esther 4096 Feb 11 12:09 Datacorps_Pipeline
+-rwxrwxrwx 1 esther esther    0 Feb 10 15:26 README.md
+-rw-r--r-- 1 esther esther    0 Feb 13 14:49 disk_report.txt
