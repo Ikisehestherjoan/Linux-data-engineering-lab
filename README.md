@@ -33,18 +33,16 @@ This project demonstrates the necessary Linux skills required to prepare that en
 ```
 linux-data-engineering-lab/
 │
-├── datacorp_pipeline/
-│   ├── source_data/
-│   ├── processed_data/
-│   ├── logs/
+├── Datacorps_Pipeline
+│   ├── Daily_maintenance.sh
+│   ├── logs
 │   │   └── disk_report.txt
 │   ├── pipeline.conf
-│   └── daily_maintenance.sh
-│
-├── screenshots/
-│   ├── lab_report.pdf
-│
-└── README.md
+│   ├── processed_data
+│   └── source_data
+├── README.md
+└── Screen shot
+    └── lab_report.pdf
 ```
 
 ---
@@ -54,14 +52,30 @@ linux-data-engineering-lab/
 ## ✅ Part 1: File System Navigation & Structure
 
 * Created `datacorp_pipeline` directory
+```bash
+mkdir datacorp_pipeline
+```
+```bash
+cd datacorp_pipeline
+```
 * Created subdirectories:
 
   * `source_data`
+  ```bash
+mkdir source_data
+```
   * `processed_data`
+    ```bash
+mkdir processed_data```
   * `logs`
+   ```bash
+mkdir logs```
 * Created configuration file: `pipeline.conf`
+ ```bash
+touch pipeline.conf```
 * Verified directory structure
-
+  ```bash
+tree```
 ---
 
 ## 🔐 Part 2: File Permissions & Ownership
@@ -118,7 +132,9 @@ kill <PID>
 ```
 
 Verified process termination.
-
+```bash
+ps aux | grep sleep
+```
 ---
 
 ## 📦 Part 5: Package Management
