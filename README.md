@@ -42,7 +42,7 @@ linux-data-engineering-lab/
 │   └── daily_maintenance.sh
 │
 ├── screenshots/
-│   ├── SCREENSHOOT.txt
+│   ├── lab_report.pdf
 │
 └── README.md
 ```
