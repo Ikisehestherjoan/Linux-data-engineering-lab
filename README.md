@@ -167,7 +167,7 @@ cat logs/disk_report.txt
 
 ## 🧩 Part 7: Shell Scripting – Automation
 
-Created script: `daily_maintenance.sh`
+Created script: `Daily_maintenance.sh`
 
 Script functionality:
 
@@ -199,7 +199,7 @@ Executed:
 
 # 📸 Proof of Work
 
-The `screenshots/` folder contains terminal evidence for all tasks (Parts 1–7).
+The `Lab_report.pdf` folder contains terminal evidence for all tasks (Parts 1–7).
 
 ---
 
@@ -213,21 +213,6 @@ The `screenshots/` folder contains terminal evidence for all tasks (Parts 1–7)
 * DevOps Foundation Skills
 * Staging Server Preparation
 
----
-
-# 🔥 Why This Project Matters
-
-This project demonstrates foundational Linux skills required for:
-
-* Data Engineering
-* ETL Deployment
-* DevOps
-* Cloud Engineering
-* Backend Infrastructure Management
-
-It simulates real-world pipeline staging before production deployment.
-
----
 
 # 👩🏽‍💻 Author
 
