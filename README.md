@@ -32,17 +32,17 @@ This project demonstrates the necessary Linux skills required to prepare that en
 
 ```
 linux-data-engineering-lab/
-│
 ├── Datacorps_Pipeline
-│   ├── Daily_maintenance.sh
-│   ├── logs
-│   │   └── disk_report.txt
-│   ├── pipeline.conf
-│   ├── processed_data
-│   └── source_data
+│   ├── Daily_maintenance.sh
+│   ├── logs
+│   │   └── disk_report.txt
+│   ├── pipeline.conf
+│   ├── processed_data
+│   └── source_data
 ├── README.md
-└── Screen shot
-    └── lab_report.pdf
+├── Screen shot
+│   └── lab_report.pdf
+└── directory_structure.txt
 ```
 
 ---
