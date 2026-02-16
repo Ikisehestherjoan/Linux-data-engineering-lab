@@ -1,0 +1,14 @@
+.
+├── Datacorps_Pipeline
+│   ├── Daily_maintenance.sh
+│   ├── logs
+│   │   └── disk_report.txt
+│   ├── pipeline.conf
+│   ├── processed_data
+│   └── source_data
+├── README.md
+├── Screen shot
+│   └── lab_report.pdf
+└── directory_structure.txt
+
+5 directories, 6 files
