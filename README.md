@@ -59,20 +59,25 @@ mkdir datacorp_pipeline
 cd datacorp_pipeline
 ```
 * Created subdirectories:
-
   * `source_data`
-  ```bash
+```bash
 mkdir source_data
 ```
+
   * `processed_data`
-    ```bash
-mkdir processed_data```
+
+```bash
+mkdir processed_data
+```
   * `logs`
-   ```bash
-mkdir logs```
-* Created configuration file: `pipeline.conf`
+```bash
+  mkdir logs
+```
+
+  * Created configuration file: `pipeline.conf`
  ```bash
-touch pipeline.conf```
+touch pipeline.conf
+```
 * Verified directory structure
   ```bash
 tree```
