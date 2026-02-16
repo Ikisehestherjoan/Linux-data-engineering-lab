@@ -79,8 +79,9 @@ mkdir processed_data
 touch pipeline.conf
 ```
 * Verified directory structure
-  ```bash
-tree```
+```bash
+tree
+```
 ---
 
 ## 🔐 Part 2: File Permissions & Ownership
